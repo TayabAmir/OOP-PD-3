@@ -1,0 +1,7 @@
+D:\Tayyab\OOP-PD\PD-3\Shiritori\Shiritori\bin\Debug\Shiritori.exe.config
+D:\Tayyab\OOP-PD\PD-3\Shiritori\Shiritori\bin\Debug\Shiritori.exe
+D:\Tayyab\OOP-PD\PD-3\Shiritori\Shiritori\bin\Debug\Shiritori.pdb
+D:\Tayyab\OOP-PD\PD-3\Shiritori\Shiritori\obj\Debug\Shiritori.csproj.AssemblyReference.cache
+D:\Tayyab\OOP-PD\PD-3\Shiritori\Shiritori\obj\Debug\Shiritori.csproj.CoreCompileInputs.cache
+D:\Tayyab\OOP-PD\PD-3\Shiritori\Shiritori\obj\Debug\Shiritori.exe
+D:\Tayyab\OOP-PD\PD-3\Shiritori\Shiritori\obj\Debug\Shiritori.pdb

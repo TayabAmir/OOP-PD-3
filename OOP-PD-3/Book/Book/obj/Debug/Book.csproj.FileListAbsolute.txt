@@ -1,0 +1,7 @@
+D:\Tayyab\OOP-PD\PD-3\Book\Book\bin\Debug\Book.exe.config
+D:\Tayyab\OOP-PD\PD-3\Book\Book\bin\Debug\Book.exe
+D:\Tayyab\OOP-PD\PD-3\Book\Book\bin\Debug\Book.pdb
+D:\Tayyab\OOP-PD\PD-3\Book\Book\obj\Debug\Book.csproj.AssemblyReference.cache
+D:\Tayyab\OOP-PD\PD-3\Book\Book\obj\Debug\Book.csproj.CoreCompileInputs.cache
+D:\Tayyab\OOP-PD\PD-3\Book\Book\obj\Debug\Book.exe
+D:\Tayyab\OOP-PD\PD-3\Book\Book\obj\Debug\Book.pdb

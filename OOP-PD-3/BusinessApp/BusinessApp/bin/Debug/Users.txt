@@ -1,0 +1,11 @@
+Tayyab,Amir1234,Admin,
+Subhan,Amir9876,Customer,1234567890123
+Kaleem,Kaleem12,Admin,
+Faraz1,faraz1234,Customer,0987654321234
+abdullah,12345678,Admin,
+MamMaida,mammaida,Admin,
+Tayyab,Amir1234,Admin,
+newuser,newuser123,cusTomer,1357902468123
+qwertyui,qwerty12,aDmin,
+Maihudon,Maihudon1,CUSTOMER,8989898989898
+Comparis,Comparison132,CUSTOMER,7373737373737
